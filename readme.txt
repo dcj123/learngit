@@ -1,5 +1,5 @@
 git is a distributed version control system.
-git is free software distrubuted under the GPL.
+git is a free software distrubuted under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Creating new branch is quick..
