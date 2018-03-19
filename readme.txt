@@ -6,3 +6,4 @@ Creating new branch is quick..
 Creating new branch is quick and simple.
 
 update file dev
+#!/usr/bin/env py
